@@ -89,7 +89,7 @@ Features Implemented:
 -------------------------------------
 Project Uses LFS storage.
 
-Project Is Currently 4.30 GB
+Project Is Currently 4.65 GB
 
 -------------------------------------
 
