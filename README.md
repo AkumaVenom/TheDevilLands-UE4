@@ -89,7 +89,7 @@ Features Implemented:
 -------------------------------------
 Project Uses LFS storage.
 
-Project Is Currently 4GB.
+Project Is Currently 4.30 GB
 
 -------------------------------------
 
@@ -101,7 +101,7 @@ Current requirements:
 
 -DX12/DX11
 
--4GB+ HDD/SSD Storage Space
+-5GB+ HDD/SSD Storage Space
 
 -Windows 64bit
 
