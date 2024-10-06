@@ -17,6 +17,17 @@ ShadowRPG Inspiration comes from:
 ("Fallout": Post apocalyptic Theme, Factions)
 
 -------------------------------------
+
+![Screenshot 2024-10-06 203424](https://github.com/user-attachments/assets/c17a4d8b-5223-45f2-b989-c00be80e3723)
+
+
+-------------------------------------
+
+![Screenshot 2024-10-06 203320](https://github.com/user-attachments/assets/cbb1388f-836a-4097-82a0-64e97889e0d8)
+
+
+-------------------------------------
+
 Press TAB while ingame to enter the options menu or just use a gamepad controller and press start to enter the options menu.
 
 Interaction with shopkeeper and dead NPCs is the "F" key.
